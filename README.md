@@ -20,6 +20,7 @@ Kaggle의 `lantian773030/pokemonclassification` 데이터셋을 사용했으며,
 +-- requirements.txt
 +-- assets/
 |   +-- pokemon_hero.png
+|   +-- result_ex.png
 +-- models/
 |   +-- resnet18_frozen.pth
 |   +-- resnet18_finetune.pth
