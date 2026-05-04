@@ -103,6 +103,11 @@ python train.py
 python -m streamlit run app.py
 ```
 
+## 결과 예시 이미지 (잠만보)
+
+![result_ex](assets/result_ex.png)
+
+
 ## 데모 GUI
 
 Streamlit 데모에서는 다음 기능을 제공합니다.
